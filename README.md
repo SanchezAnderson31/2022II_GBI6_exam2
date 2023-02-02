@@ -12,6 +12,10 @@ Examen de Bioinformática, módulo de Python
 
 ## Version de Python y Anaconda
    3.09.13
+## Modulos y paquetes utilizados
+* Biopython
+* Coati
+
 <h1>Tabla de datos de la computadora</h1>
 <table border="1">
   <tr>
