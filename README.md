@@ -7,8 +7,11 @@ Examen de Bioinformática, módulo de Python
 ### Edad: 22
 ### Ciudad de origen: Tabacundo
 ### Idiomas: Español, Inglés 
-### Deportes: Fútbol, MTB
+### Deportes: Fútbol, MTB 
 
+
+## Version de Python y Anaconda
+   3.09.13
 <h1>Tabla de datos de la computadora</h1>
 <table border="1">
   <tr>
@@ -25,7 +28,4 @@ Examen de Bioinformática, módulo de Python
   </tr>
   <tr>
       <td>tipo de sistema</td>
-      <td>sistema operativode 64bits</td>
-   </tr>
-## Version de Python y Anaconda
-   3.09.13
+   <td>sistema operativode 64bits</td>
