@@ -6,12 +6,11 @@ from Bio.Align.Applications import ClustalwCommandline
 import os
 
 def faster_downloader():
-    id_coati=[]
-    rep= []
-    coati=[]
     """
     Sirve para cargar id_coati.txt en id_coatiy descargar en formato genbank la información correspondiente a los identificadores de accesión usando el ENTREZ de Biopythony se guardar en coati y en coati.gb
     """
+    
+    # Abrir el documento
     coati = open('C:/Users/ander/Documents/Prueba pi/2022II_GBI6_exam2/data/coati.txt' , 'r')
     # Leemos el archivo
     data = coati.read()
