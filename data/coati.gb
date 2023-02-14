@@ -1470,3 +1470,454 @@ ORIGIN
       241 atcctactga tccagcaaat gggacatctc gatggactaa tgactaatca gcccatgatc
       301 acacaa
 //
+LOCUS       MW419848                 306 bp    DNA     linear   MAM 03-AUG-2021
+DEFINITION  Nasua nasua isolate Bolivia7 control region, partial sequence;
+            mitochondrial.
+ACCESSION   MW419848
+VERSION     MW419848.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasua nasua (ring-tailed coati)
+  ORGANISM  Nasua nasua
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasua.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-DEC-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasua nasua"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Bolivia7"
+                     /db_xref="taxon:9651"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattagt ggtttgcccc atgcatataa gcatgtacat aatatggttg
+       61 attttacatg aatgtaattc acttagatca cgagcttaat caccaagcct cgagaaacca
+      121 tcaatccttg cgcgaagtat acctcttctc gctccgggcc catagaaact tgggggtttc
+      181 tagagtgaaa ctatacctgg catctggttc ttacttcagg gccatgccat cgcaaactca
+      241 atcctactga tccagcaaat gggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MW419849                 306 bp    DNA     linear   MAM 03-AUG-2021
+DEFINITION  Nasua nasua isolate Bolivia8 control region, partial sequence;
+            mitochondrial.
+ACCESSION   MW419849
+VERSION     MW419849.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasua nasua (ring-tailed coati)
+  ORGANISM  Nasua nasua
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasua.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-DEC-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasua nasua"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Bolivia8"
+                     /db_xref="taxon:9651"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattaat ggtttgcccc atgcatataa gcatgtacat aatatggttg
+       61 attttacatg aatgtaattc acttagatca cgagcttaat caccaagcct cgagaaacca
+      121 tcaatccttg cgcgaagtat acctcttctc gctccgggcc catagaaact tgggggtttc
+      181 tagggtgaaa ctatacctgg catctggttc ttacttcagg gccatgccat cgcaaactca
+      241 atcctactga tccagcaaat gggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MW419850                 306 bp    DNA     linear   MAM 03-AUG-2021
+DEFINITION  Nasua nasua isolate Peru21 control region, partial sequence;
+            mitochondrial.
+ACCESSION   MW419850
+VERSION     MW419850.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasua nasua (ring-tailed coati)
+  ORGANISM  Nasua nasua
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasua.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-DEC-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasua nasua"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Peru21"
+                     /db_xref="taxon:9651"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattaat ggtttgcccc atgcatataa gcatgtacat aatatggttg
+       61 attttacatg aatgtaattc acttagatca cgagcttaat caccaagcct cgagaaacca
+      121 tcaatccttg cgcgaagtat acctcttctc gctccgggcc catagaaact tgggggtttc
+      181 tagggtgaaa ctatacctgg catctggttc ttacttcagg gccatgccat cgcaaactca
+      241 atcctactga tccagcaaat gggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MW419851                 306 bp    DNA     linear   MAM 03-AUG-2021
+DEFINITION  Nasua nasua isolate Peru22 control region, partial sequence;
+            mitochondrial.
+ACCESSION   MW419851
+VERSION     MW419851.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasua nasua (ring-tailed coati)
+  ORGANISM  Nasua nasua
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasua.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-DEC-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasua nasua"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Peru22"
+                     /db_xref="taxon:9651"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattaat ggtttgcccc atgcatataa gcatgtacat gatatggttg
+       61 attttacatg aatgtaattc acttagatca cgagcttaat caccaagcct cgagaaacca
+      121 tcaatccttg cgcgaagtat acctcttctc gctccgggcc catagaaact tgggggtttc
+      181 tagagtgaaa ctatacctgg catctggttc ttacttcagg gccatgccat cgcaaactca
+      241 atcctactgc tccagcaaat gggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MW419852                 306 bp    DNA     linear   MAM 03-AUG-2021
+DEFINITION  Nasua nasua isolate Peru23 control region, partial sequence;
+            mitochondrial.
+ACCESSION   MW419852
+VERSION     MW419852.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasua nasua (ring-tailed coati)
+  ORGANISM  Nasua nasua
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasua.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-DEC-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasua nasua"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Peru23"
+                     /db_xref="taxon:9651"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc ttgcattaat ggtttgcccc atgcatataa gcatgtacat aatatggttg
+       61 attttacatg aatgtaattc acttagatca cgagcttaat caccaagcct cgagaaacca
+      121 tcaatccttg cgcgaagtat acctcttctc gctccgggcc catagaaact tgggggtttc
+      181 tagagtgaaa ctatacctgg catctggttc ttacttcagg gccatgccat cgcaaactca
+      241 atcctactga tccagcaaat gggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MW419853                 306 bp    DNA     linear   MAM 03-AUG-2021
+DEFINITION  Nasua nasua isolate Peru24 control region, partial sequence;
+            mitochondrial.
+ACCESSION   MW419853
+VERSION     MW419853.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasua nasua (ring-tailed coati)
+  ORGANISM  Nasua nasua
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasua.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-DEC-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasua nasua"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Peru24"
+                     /db_xref="taxon:9651"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattaat ggtttgcccc atgcatataa gcatgtacat gatatggttg
+       61 attttacatg gatgtaattc acttagatca cgagcttaat caccaagcct cgagaaacca
+      121 tcaatccttg cgcgaagtat acctcttctc gctccgggcc catagaaact tgggggtttc
+      181 tagagtgaaa ctatacctgg catctggttc ttacttcagg gccatgccat cgcaaactca
+      241 atcctactga tccagcaaat gggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MT974144                 412 bp    DNA     linear   INV 12-SEP-2020
+DEFINITION  Amblyomma sculptum isolate Coati-2 large subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   MT974144
+VERSION     MT974144.1
+KEYWORDS    .
+SOURCE      mitochondrion Amblyomma sculptum
+  ORGANISM  Amblyomma sculptum
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Chelicerata; Arachnida;
+            Acari; Parasitiformes; Ixodida; Ixodoidea; Ixodidae; Amblyomminae;
+            Amblyomma.
+REFERENCE   1  (bases 1 to 412)
+  AUTHORS   Perles,L., Barreto,W., Macedo,G., Miraglia,H., Machado,R. and
+            Andre,M.
+  TITLE     Ectoparasites in Nasua nasua from Campo Grande, MS
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 412)
+  AUTHORS   Perles,L., Barreto,W., Macedo,G., Miraglia,H., Machado,R. and
+            Andre,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-SEP-2020) Veterinary Pathology, School of Veterinary
+            Medicine and Animal Science, Sao Paulo State University, UNESP, Via
+            de Acesso Prof. Paulo Roberto Castellane s/n, Jaboticabal, Sao Paulo
+            14884-900, Brazil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..412
+                     /organism="Amblyomma sculptum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Coati-2"
+                     /host="Nasua nasua"
+                     /db_xref="taxon:1581419"
+                     /country="Brazil: Campo Grande"
+     rRNA            <1..>412
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcaatgattt tttaaattgc tgtggtattt tgactataca aaggtattga aataagactt
+       61 taattgagtg ctaagagaat ggaattacag aaaaaagctt ttttaaattt aataattaaa
+      121 gttattttta tttgtgaaga aacaataatt aaaattaagg acaagaagac cctatgaatt
+      181 tttctgaaat atatttcatt taaataaata tatatttctt taattggggc gattaattaa
+      241 tattttgaac ttttttgcaa aaatatgaac cgtttaatag cggtaaattg taaaaatact
+      301 ctagggataa cagcgtaata attttagata gttcatattg acaaaatagt ttgcgacctc
+      361 gatgttggat taggatgttt ttttggcgaa gaagttaaaa aaaaaagttt gt
+//
+LOCUS       MT974145                 410 bp    DNA     linear   INV 12-SEP-2020
+DEFINITION  Amblyomma dubitatum isolate Coati-7 large subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   MT974145
+VERSION     MT974145.1
+KEYWORDS    .
+SOURCE      mitochondrion Amblyomma dubitatum
+  ORGANISM  Amblyomma dubitatum
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Chelicerata; Arachnida;
+            Acari; Parasitiformes; Ixodida; Ixodoidea; Ixodidae; Amblyomminae;
+            Amblyomma.
+REFERENCE   1  (bases 1 to 410)
+  AUTHORS   Perles,L., Barreto,W., Macedo,G., Miraglia,H., Machado,R. and
+            Andre,M.
+  TITLE     Ectoparasites in Nasua nasua from Campo Grande, MS
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 410)
+  AUTHORS   Perles,L., Barreto,W., Macedo,G., Miraglia,H., Machado,R. and
+            Andre,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-SEP-2020) Veterinary Pathology, School of Veterinary
+            Medicine and Animal Science, Sao Paulo State University, UNESP, Via
+            de Acesso Prof. Paulo Roberto Castellane s/n, Jaboticabal, Sao Paulo
+            14884-900, Brazil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..410
+                     /organism="Amblyomma dubitatum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Coati-7"
+                     /host="Nasua nasua"
+                     /db_xref="taxon:321419"
+                     /country="Brazil: Campo Grande"
+     rRNA            <1..>410
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 gctcaatgat tttttaaatt gctgtggtat tttgactata caaaggtatt gaaataagac
+       61 tttaattgag tgctaagaga atggaaatac agaaaaattc tttcttaaat tcaaaaatta
+      121 aagttatttt tatttgtgaa gaaacagtaa tattaattaa ggacaagaag accctaagaa
+      181 ttttctgaaa aatcaatttt ttaattgaaa attttcttta attggggcga ttaataaaaa
+      241 tttaaaactt tatttaaata acaaaaaatg aaccaatatt attggtcata tgaaaaaaat
+      301 actctaggga taacagcgta ataatttttg atagttctta tagacaaaat agtttgcgac
+      361 ctcgatgttg gattaggata cttttttaat gaagaagtta aaaaaagaag
+//
+LOCUS       MT587713                 306 bp    DNA     linear   MAM 01-SEP-2020
+DEFINITION  Nasuella olivacea isolate Cundinamarca1 control region, partial
+            sequence; mitochondrial.
+ACCESSION   MT587713
+VERSION     MT587713.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasuella olivacea (Western mountain coati)
+  ORGANISM  Nasuella olivacea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasuella.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M., Jaramillo,M.F., Caceres-Martinez,C.H. and
+            Shostell,J.M.
+  TITLE     The phylogeographic structure of the mountain coati (Nasuella
+            olivacea; Procyonidae, Carnivora), and its phylogenetic
+            relationships with other coati species (Nasua nasua and Nasua
+            narica) as inferred by mitochondrial DNA
+  JOURNAL   Mamm. Biol. (2020) In press
+  REMARK    Publication Status: Available-Online prior to print DOI:
+            10.1007/s42991-020-00050-w
+REFERENCE   2  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasuella olivacea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Cundinamarca1"
+                     /db_xref="taxon:743424"
+                     /country="Colombia"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattagt ggtttgcccc atgcatataa gcatgtacat tacatgatta
+       61 attttacata catgtaattc acttagatcg cgagcttaat caccatgcct cgagaaacca
+      121 tcaacccttg cgcgaagtat acctcttctc gctccgggcc catagaaact tgggggtttc
+      181 tagactgaaa ctatacctgg catctggttc ttacctcagg gccatgccat cgcaaactca
+      241 atcctactga cctagcaaat aggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MT587714                 306 bp    DNA     linear   MAM 01-SEP-2020
+DEFINITION  Nasuella olivacea isolate Chingaza1 control region, partial
+            sequence; mitochondrial.
+ACCESSION   MT587714
+VERSION     MT587714.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasuella olivacea (Western mountain coati)
+  ORGANISM  Nasuella olivacea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasuella.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M., Jaramillo,M.F., Caceres-Martinez,C.H. and
+            Shostell,J.M.
+  TITLE     The phylogeographic structure of the mountain coati (Nasuella
+            olivacea; Procyonidae, Carnivora), and its phylogenetic
+            relationships with other coati species (Nasua nasua and Nasua
+            narica) as inferred by mitochondrial DNA
+  JOURNAL   Mamm. Biol. (2020) In press
+  REMARK    Publication Status: Available-Online prior to print DOI:
+            10.1007/s42991-020-00050-w
+REFERENCE   2  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasuella olivacea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Chingaza1"
+                     /db_xref="taxon:743424"
+                     /country="Colombia"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattagt ggtttgcccc atgcatataa gcatgtacat tacatgatta
+       61 attttacata catgtaattc acttagatcg cgagcttaat caccatgcct cgagaaacca
+      121 tcaacccttg cgcgaagtat acctcttctc gctccgggcc catagaaact tgggggtttc
+      181 tagactgaaa ctatacctgg catctggttc ttacctcagg gccatgccat cgcaaactca
+      241 atcctactga cctagcaaat aggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
+LOCUS       MT587715                 306 bp    DNA     linear   MAM 01-SEP-2020
+DEFINITION  Nasuella olivacea isolate Chingaza2 control region, partial
+            sequence; mitochondrial.
+ACCESSION   MT587715
+VERSION     MT587715.1
+KEYWORDS    .
+SOURCE      mitochondrion Nasuella olivacea (Western mountain coati)
+  ORGANISM  Nasuella olivacea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia;
+            Procyonidae; Nasuella.
+REFERENCE   1  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M., Jaramillo,M.F., Caceres-Martinez,C.H. and
+            Shostell,J.M.
+  TITLE     The phylogeographic structure of the mountain coati (Nasuella
+            olivacea; Procyonidae, Carnivora), and its phylogenetic
+            relationships with other coati species (Nasua nasua and Nasua
+            narica) as inferred by mitochondrial DNA
+  JOURNAL   Mamm. Biol. (2020) In press
+  REMARK    Publication Status: Available-Online prior to print DOI:
+            10.1007/s42991-020-00050-w
+REFERENCE   2  (bases 1 to 306)
+  AUTHORS   Ruiz-Garcia,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2020) Biology, Pontificia Universidad Javeriana,
+            Cra 7A No 43-82, Bogota, Cundinamarca 00110, Colombia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..306
+                     /organism="Nasuella olivacea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Chingaza2"
+                     /db_xref="taxon:743424"
+                     /country="Colombia"
+     misc_feature    <1..>306
+                     /note="control region"
+ORIGIN
+        1 tatgtacgtc gtgcattagt ggtttgcccc atgcatataa gcatgtacat tacatgatta
+       61 attttacata catgtaattc acttagatcg cgagcttaat caccatgcct cgagaaacca
+      121 tcaacccttg cgcgaagtat acctcttctc gctccgggcc catagaaact tgggggtttc
+      181 tagactgaaa ctatacctgg catctggttc ttacctcagg gccatgccat cgcaaactca
+      241 atcctactga cctagcaaat aggacatctc gatggactaa tgactaatca gcccatgatc
+      301 acacaa
+//
